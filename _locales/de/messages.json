@@ -1,0 +1,89 @@
+{
+    "application_name": {
+        "message": "H.265 / HEVC Player"
+    },
+    "application_description": {
+        "message": "Player f\u00fcr H.265 / HEVC Videodateien."
+    },
+    "open_file_description": {
+        "message": "Videodateien"
+    },
+    "could_not_open_file": {
+        "message": "Die gew\u00e4hlte Datei kann nicht ge\u00f6ffnet werden."
+    },
+    "doubleclick_fullscreen": {
+        "message": "Bitte klicken Sie doppelt auf das Video, um zum Vollbild-Modus zu wechseln."
+    },
+    "filesystem_api_required": {
+        "message": "Die chrome.fileSystem API wird ben\u00f6tigt, um Videos abzuspielen."
+    },
+    "player_crashed": {
+        "message": "Es tut uns leid, aber der Player hat sich unerwartet beendet. Bitte versuchen Sie es noch einmal."
+    },
+    "could_not_load_player": {
+        "message": "Der Player konnte nicht gestartet werden, bitte installieren Sie die App neu."
+    },
+    "buffer_underrun": {
+        "message": "Ihr Computer ist zu langsam, um das Video in Echtzeit zu dekodieren. Die Abspielgeschwindigkeit ist m\u00f6glicherweise zu niedrig."
+    },
+    "unknown_playback_error": {
+        "message": "Die gew\u00e4hlte Datei kann nicht ge\u00f6ffnet werden, oder enth\u00e4lt ein nicht unterst\u00fctzes Format."
+    },
+    "error_msg_open_input": {
+        "message": "Die gew\u00e4hlte Datei kann nicht ge\u00f6ffnet werden, bitte stellen Sie sicher, dass sie lesbar ist und ein unterst\u00fctzes Format enth\u00e4lt."
+    },
+    "error_msg_no_streams": {
+        "message": "Die gew\u00e4hlte Datei kann nicht ge\u00f6ffnet werden, bitte stellen Sie sicher, dass sie lesbar ist und ein unterst\u00fctzes Format enth\u00e4lt."
+    },
+    "error_msg_no_supported_streams": {
+        "message": "Die gew\u00e4hlte Datei enth\u00e4lt keine unterst\u00fctzen Audio- und/oder Videoformate. Bitte w\u00e4hlen Sie eine Datei mit H.265/HEVC Video und AAC, AC3, MP3 oder OGG Audio aus."
+    },
+    "error_msg_decoding_audio": {
+        "message": "Fehler beim Dekodieren eines Audio-Paketes."
+    },
+    "error_msg_decoding_video": {
+        "message": "Fehler beim Dekodieren eines Video-Paketes."
+    },
+    "no_subtitle": {
+        "message": "Keine Untertitel"
+    },
+    "open_movie_file": {
+        "message": "Videodatei \u00f6ffnen"
+    },
+    "open": {
+        "message": "\u00d6ffnen"
+    },
+    "start_playback": {
+        "message": "Wiedergabe starten"
+    },
+    "play": {
+        "message": "Abspielen"
+    },
+    "pause_playback": {
+        "message": "Wiedergabe unterbrechen"
+    },
+    "pause": {
+        "message": "Pause"
+    },
+    "stop_playback": {
+        "message": "Wiedergabe beenden"
+    },
+    "stop": {
+        "message": "Stop"
+    },
+    "subtitle_idx": {
+        "message": "Untertitel $index$",
+        "placeholders": {
+            "index": {
+                "content": "$1",
+                "example": "1"
+            }
+        }
+    },
+    "toggle_fullscreen": {
+        "message": "Vollbild umschalten"
+    },
+    "volume": {
+        "message": "Lautstärke"
+    }
+}
