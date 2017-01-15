@@ -9,7 +9,7 @@ var anchorURL = document.getElementById('anchorURL');
 anchorURL.target="_blank";
 var resizeButton = document.getElementById('resizeButton');
 var hiddenMenu = document.getElementById('hiddenMenu');
-var myRegex = /^http:\/\/.*\.(mkv|mp4)$/;
+var myRegex = /^https:\/\/.*\.(mkv|mp4)$/;
 var link;
 var videoArea = document.getElementById('videoArea');
 
