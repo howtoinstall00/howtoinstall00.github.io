@@ -1,21 +1,19 @@
 <html>
-<script>
-function openLinks(){
-links = document.getElementsByTagName('a');
-
- for (i = 0; i < links.length;i++){ 
-   window.open(links[i].getAttribute('href'),'_blank');
-   window.focus();
- }
-}
-</script>
-
-<body onload="openLinks()">
-
-<a href="http://google.com">google</a>
-<a href="http://stackoverflow.com">stackoverflow</a>
-<a href="http://facebook.com">facebook</a>
-<!-- add other link -->
-
-</body>
+   <head>
+   
+      <script type="text/javascript">
+         <!--
+            function Redirect() {
+               window.location="http://www.tutorialspoint.com";
+            }
+            
+            document.write("You will be redirected to main page in 10 sec.");
+            setTimeout('Redirect()', 10000);
+         //-->
+      </script>
+      
+   </head>
+   
+   <body>
+   </body>
 </html>
